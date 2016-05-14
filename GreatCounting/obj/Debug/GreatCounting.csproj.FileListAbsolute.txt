@@ -1,0 +1,5 @@
+G:\Projects\ConsoleApplication2\GreatCounting\bin\Debug\GreatCounting.dll
+G:\Projects\ConsoleApplication2\GreatCounting\bin\Debug\GreatCounting.pdb
+G:\Projects\ConsoleApplication2\GreatCounting\obj\Debug\GreatCounting.dll
+G:\Projects\ConsoleApplication2\GreatCounting\obj\Debug\GreatCounting.pdb
+G:\Projects\ConsoleApplication2\GreatCounting\obj\Debug\GreatCounting.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+G:\Projects\ConsoleApplication2\GreatCountingTests\bin\Debug\GreatCountingTests.dll
+G:\Projects\ConsoleApplication2\GreatCountingTests\bin\Debug\GreatCountingTests.pdb
+G:\Projects\ConsoleApplication2\GreatCountingTests\bin\Debug\GreatCounting.dll
+G:\Projects\ConsoleApplication2\GreatCountingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Projects\ConsoleApplication2\GreatCountingTests\bin\Debug\GreatCounting.pdb
+G:\Projects\ConsoleApplication2\GreatCountingTests\obj\Debug\GreatCountingTests.csprojResolveAssemblyReference.cache
+G:\Projects\ConsoleApplication2\GreatCountingTests\obj\Debug\GreatCountingTests.dll
+G:\Projects\ConsoleApplication2\GreatCountingTests\obj\Debug\GreatCountingTests.pdb

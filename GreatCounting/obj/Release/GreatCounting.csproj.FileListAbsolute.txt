@@ -1,0 +1,4 @@
+G:\Projects\ConsoleApplication2\GreatCounting\bin\Release\GreatCounting.dll
+G:\Projects\ConsoleApplication2\GreatCounting\bin\Release\GreatCounting.pdb
+G:\Projects\ConsoleApplication2\GreatCounting\obj\Release\GreatCounting.dll
+G:\Projects\ConsoleApplication2\GreatCounting\obj\Release\GreatCounting.pdb
